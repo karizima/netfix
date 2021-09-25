@@ -1,0 +1,56 @@
+
+
+* {box-sizing: border-box}
+
+
+  input[type=text], input[type=password] {
+  width: 70%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+   border: none;
+  }
+ 
+     input[type=text]:focus, input[type=password]:focus {
+    outline: none;
+  }
+ 
+    
+.smallbox{
+   width: 30%;
+   height: 85%;
+   margin-left: 450px;
+   background-color: rgba(0,0,0,0.7);
+   margin-top: 5%;
+   border: 1px solid black;
+   border-radius:3%;
+}
+ .container {   
+   width: 1400px;
+   height: 100vh;
+   display: block;
+   background-color: rgba(0,0,0,0.4) ;
+  
+   
+
+ } 
+ a:link{
+   text-decoration: none;
+   margin-top: none;
+  
+
+ }
+ a:last-child{
+   color:gray;
+ }
+  
+
+
+
+
+
+
+
+
+
+
+  
